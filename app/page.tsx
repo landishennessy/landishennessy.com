@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <main className="min-h-screen bg-neutral-950 text-white">
+    <main>
       <section className="mx-auto flex min-h-screen max-w-5xl flex-col justify-center px-6">
         <p className="mb-4 text-sm uppercase tracking-[0.3em] text-neutral-400">
           Landis Hennessy
@@ -30,6 +30,18 @@ export default function Home() {
             Contact
           </a>
         </div>
+      </section>
+
+      <section
+        id="work"
+        className="mx-auto max-w-5xl px-6 py-24"
+      >
+        <h2 className="text-sm uppercase tracking-[0.3em] text-neutral-400">
+          Work
+        </h2>
+        <p className="mt-4 max-w-2xl text-lg text-neutral-300">
+          Portfolio and case studies are on the way. Check back soon.
+        </p>
       </section>
     </main>
   );
