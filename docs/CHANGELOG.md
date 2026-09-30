@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-09-30
+
+### Consulting homepage refresh
+
+- Rebuilt the homepage around the existing product-development positioning.
+- Added clear capability, work-in-progress, and contact sections.
+- Preserved the existing email contact and made no custom-domain changes.
+
 ## 2026-07-09
 
 ### Site foundation
