@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-10-05
+
+### Public-contact privacy update
+
+- Removed the public Gmail address and every `mailto:` link from the live site source.
+- Replaced email calls to action with clear "contact coming soon" placeholders until a dedicated business address is verified.
+- No contact form or replacement address was introduced, so the site does not expose a new inbox.
+
 ## 2026-09-30
 
 ### Consulting homepage refresh
